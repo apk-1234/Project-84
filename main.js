@@ -69,11 +69,6 @@ function keyDown(e)
         car2_up();
         console.log("W Key");
     }
-    else if(keyPressed='87')
-    {
-        car2_up();
-        console.log("W Key");
-    }
     else if(keyPressed='65')
     {
         car2_down();
